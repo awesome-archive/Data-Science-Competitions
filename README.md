@@ -102,6 +102,12 @@ For Comment and Suggestions: [Discusssion Thread:](https://gist.github.com/inter
 #### Rossmann Store Sales
 * 1st Place Solution ([Explanation](https://www.kaggle.com/c/rossmann-store-sales/discussion/18024#latest-581685))
 * 3rd Place Solution ([Explanation](https://www.kaggle.com/c/rossmann-store-sales/discussion/17974#latest-477628))([code](https://github.com/entron/entity-embedding-rossmann))
+## QnA System:
+#### TensorFlow 2.0 Question Answering
+* [1st place solution](https://www.kaggle.com/c/tensorflow2-question-answering/discussion/127551)
+* [2nd place solution](https://www.kaggle.com/c/tensorflow2-question-answering/discussion/127333)
+* [3rd place solution](https://www.kaggle.com/c/tensorflow2-question-answering/discussion/127339)
+* [4th place Solution](https://www.kaggle.com/c/tensorflow2-question-answering/discussion/127371)
 
 ## Recommendation System:
 #### Santander Product Recommendation
@@ -140,6 +146,11 @@ For Comment and Suggestions: [Discusssion Thread:](https://gist.github.com/inter
 * 1st Place Solution ([Explanation](https://www.kaggle.com/c/noaa-right-whale-recognition/discussion/18409#latest-170541))([code](https://www.dropbox.com/s/rohrc1btslxwxzr/deepsense-whales.zip?dl=1))
 * 2nd Place Solution ([Explanation](https://www.kaggle.com/c/noaa-right-whale-recognition/discussion/18325#latest-104535))([code](https://github.com/felixlaumon/kaggle-right-whale))
 
+## Video Challenge
+#### The 3rd YouTube-8M Video Understanding Challenge
+* 5th Place Solution ([Explanation](https://www.kaggle.com/c/youtube8m-2019/discussion/112296#latest-647992))
+* 6th Place Solution ([Explanation](https://www.kaggle.com/c/youtube8m-2019/discussion/112403#latest-649376))
+* 7th Place Solution ([Explanation](https://www.kaggle.com/c/youtube8m-2019/discussion/112349#latest-648466))
 
 ## Semantic Segmentation & Instance Segmentation
 
